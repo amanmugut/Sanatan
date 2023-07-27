@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18703703703703703" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/drawable/custom_edittext.xml" value="0.24583333333333332" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/drawable/shadow.xml" value="0.24583333333333332" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/drawable/splashscreen.xml" value="0.24583333333333332" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_card1.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_durgamataji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_four.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_four2.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_ganeshaartione.xml" value="0.18857142857142858" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_ganeshaartitwo.xml" value="0.18857142857142858" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_ganeshartithree.xml" value="0.18857142857142858" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_goddesslaxmiji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_goddesssaraswatimataji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_godramji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_godsaartibankeji.xml" value="0.1" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_godsaartihanumanji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_godsaartikrishnaji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_godshivaji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_godshreeramji.xml" value="0.18857142857142858" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_home.xml" value="0.18857142857142858" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_homemain.xml" value="0.2857142857142857" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_jayganesh.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_jayganeshaarti.xml" value="0.14583333333333334" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_main.xml" value="0.17407407407407408" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_one_one.xml" value="0.14285714285714285" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_santkhatushyamji.xml" value="0.20540288775034932" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_santmahavirji.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_santsaibaba.xml" value="0.2296875" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_three2.xml" value="0.2857142857142857" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/layout/activity_two2.xml" value="0.18857142857142858" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12708333333333333" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.18703703703703703" />
+        <entry key="..\:/all apps/Sanatan/app/src/main/res/mipmap-anydpi-v26/logo_round.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

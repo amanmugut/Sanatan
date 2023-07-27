@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227603638566",
+    "project_id": "sanatan-5ce04",
+    "storage_bucket": "sanatan-5ce04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227603638566:android:6914b6393ee555bab4b9e7",
+        "android_client_info": {
+          "package_name": "com.example.sanatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227603638566-aa54cei22vbf5uketcik5d0mpgp671mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQsNunP0HuDPeHrzPTTT-liXnJES4VbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227603638566-aa54cei22vbf5uketcik5d0mpgp671mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

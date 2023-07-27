@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sanatan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sanatan">
+        <activity
+            android:name=".goddesssaraswatimataji"
+            android:exported="false" />
+        <activity
+            android:name=".goddesslaxmiji"
+            android:exported="false" />
+        <activity
+            android:name=".durgamataji"
+            android:exported="false" />
+        <activity
+            android:name=".santmahavirji"
+            android:exported="false" />
+        <activity
+            android:name=".godshivaji"
+            android:exported="false" />
+        <activity
+            android:name=".godramji"
+            android:exported="false" />
+        <activity
+            android:name=".santsaibaba"
+            android:exported="false" />
+        <activity
+            android:name=".santkhatushyamji"
+            android:exported="false" />
+        <activity
+            android:name=".godshreeramji"
+            android:exported="false" />
+        <activity
+            android:name=".godsaartibankeji"
+            android:exported="false" />
+        <activity
+            android:name=".godsaartikrishnaji"
+            android:exported="false" />
+        <activity
+            android:name=".godsaartihanumanji"
+            android:exported="false" />
+        <activity
+            android:name=".ganeshartithree"
+            android:exported="false" />
+        <activity
+            android:name=".ganeshaartitwo"
+            android:exported="false" />
+        <activity
+            android:name=".ganeshaartione"
+            android:exported="false" />
+        <activity
+            android:name=".six"
+            android:exported="false" />
+        <activity
+            android:name=".five"
+            android:exported="false" />
+        <activity
+            android:name=".four"
+            android:exported="false" />
+        <activity
+            android:name=".three"
+            android:exported="false" />
+        <activity
+            android:name=".two"
+            android:exported="false" />
+        <activity
+            android:name=".one"
+            android:exported="false"
+            android:parentActivityName=".Homemain" />
+        <activity
+            android:name=".Homemain"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
